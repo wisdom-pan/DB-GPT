@@ -227,10 +227,11 @@ The MIT License (MIT)
 }
 ```
 
-## 联系我们
+<!-- ## 联系我们
 
 <p align="center">
   <img src="./assets/wechat.jpg" width="300px" />
-</p>
+</p> -->
 
 [![Star History Chart](https://api.star-history.com/svg?repos=csunny/DB-GPT&type=Date)](https://star-history.com/#csunny/DB-GPT)
+
